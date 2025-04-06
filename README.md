@@ -6,12 +6,12 @@
 Elaboração de um conto de ficção científica escrito no estilo de Nelson Rodrigues.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Liste as IAs Generativas e outras ferramentas usadas: 
 ChatGPT
 
 ## 🧐 Processo de Criação
 Fiz a seguinte solicitação a IA:
-Escreva um texto, de ficção científica, que se passe no século 31, onde a civilização humana convive com raças alienígenas de várias galáxias diferentes. A história central será sobre uma família formada por um pai, uma mãe e duas filhas que vivem numa colônia num planeta fora do nosso sistema solar (crie um nome e uma localização para o planeta). O pai é professor numa universidade intergaláctica, a mãe é uma cientista que trabalha numa pesquisa sobre um novo combustível, menos volátil e mais potente, mas ainda secreto. As filhas são adolescentes e estudantes. Uma das filhas se perde uma fenda temporal que surge nos fundos da casa da família, que não sabe o que aconteceu e nem onde ela está.  A família encontra a fenda temporal e parte numa aventura para resgatá-la. Ela foi para no século 21. Finalize a história com a resolução do desaparecimento e a volta da família para o século 31, mas escreva isso no estilo de narrativa do escritor brasileiro Nelson Rodrigues.
+Escreva um texto, de ficção científica, que se passe no século 31, onde a civilização humana convive com raças alienígenas de várias galáxias diferentes. A história central será sobre uma família formada por um pai, uma mãe e duas filhas que vivem numa colônia num planeta fora do nosso sistema solar (crie um nome e uma localização para o planeta). O pai é professor numa universidade intergaláctica, a mãe é uma cientista que trabalha numa pesquisa sobre um novo combustível, menos volátil e mais potente, mas ainda secreto. As filhas são adolescentes e estudantes. Uma das filhas se perde em uma fenda temporal que surge nos fundos da casa da família, que não sabe o que aconteceu e nem onde ela está.  A família encontra a fenda temporal e parte numa aventura para resgatá-la. Ela foi para no século 21. Finalize a história com a resolução do desaparecimento e a volta da família para o século 31, mas escreva isso no estilo de narrativa do escritor brasileiro Nelson Rodrigues.
 
 ## 🚀 Resultados
 A resposta do ChatGPT foi o seguinte texto:
